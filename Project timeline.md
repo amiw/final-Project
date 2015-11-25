@@ -17,7 +17,7 @@
   <li>continue code blinkyTape with arduino</li>
 </ol>
 
-#Dec 5
+#Dec 2
 <ol>
   <li>Laser cut the screen piece</li>
  </ol>
