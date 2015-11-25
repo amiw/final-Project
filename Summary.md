@@ -1,4 +1,0 @@
-#interactive screen
-<blockquote cite="http://developer.mozilla.org">
-  <p>This is a quotation taken from the Mozilla Developer Center.</p>
-</blockquote>
