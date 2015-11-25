@@ -7,4 +7,5 @@
   <li>-cardboard</li>
   <li>-BlinkyTape</li>
   <li>-hand Sensor</li>
+  <li>-Tape/glue</li>
 </ol>
