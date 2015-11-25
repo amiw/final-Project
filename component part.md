@@ -1,7 +1,7 @@
-##Building Parts
+#Building Parts
 -white cardboard (wall)with laser cut
 
-##Buying Parts
--cardboard
--BliykTape
--hand sensor( borrow from a friend)
+#Buying Parts
+1.cardboard
+2.BliykTape
+3.hand sensor( borrow from a friend)
