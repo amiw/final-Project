@@ -1,5 +1,5 @@
 #Building Parts
--white cardboard (wall)with laser cut
+1.white cardboard (wall)with laser cut
 
 #Buying Parts
 
