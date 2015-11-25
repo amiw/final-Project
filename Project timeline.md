@@ -22,7 +22,7 @@
   <li>Laser cut the screen piece</li>
  </ol>
  
-#Dec 6
+#Dec6
  <ol>
   <li>assemble the blinkyTape with the screen</li>
   <li>test the blinkyTape with screen</li>
